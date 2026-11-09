@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ_gyakorlas_feladatok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d23964b0dbf082081fe5a45c1a7ad997b12ad9b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ_gyakorlas_feladatok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ_gyakorlas_feladatok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
